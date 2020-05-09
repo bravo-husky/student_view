@@ -1,0 +1,14 @@
+.submit_wrapper {
+  padding: 25px;
+}
+.submit_wrapper > h3 {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.submit_wrapper .btn_wrapper {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

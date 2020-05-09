@@ -1,0 +1,14 @@
+.ant-table-thead th,
+.ant-table-body th,
+.ant-table-thead td,
+.ant-table-body td {
+  text-align: center;
+}
+.ant-table-thead .ant-table-header-column,
+.ant-table-body .ant-table-header-column {
+  display: table !important;
+  margin: 0 auto !important;
+}
+.ant-table-body td {
+  background: #FFF !important;
+}

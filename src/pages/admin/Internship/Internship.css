@@ -1,0 +1,8 @@
+.edit_wrapper {
+  width: 700px!important;
+  min-height: 650px;
+}
+.edit_wrapper .ant-modal-content {
+  height: 100%;
+  width: 100%;
+}

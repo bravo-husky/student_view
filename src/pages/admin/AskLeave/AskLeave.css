@@ -1,0 +1,17 @@
+.ask_leave_wrapper {
+  padding-top: 30px;
+}
+.ask_leave_wrapper > h3 {
+  text-align: center;
+  font-size: 21px;
+  color: #000;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.ask_leave_wrapper .text_area {
+  width: 800px;
+  margin: 0 auto;
+  display: block;
+  resize: none;
+  margin-bottom: 50px;
+}
